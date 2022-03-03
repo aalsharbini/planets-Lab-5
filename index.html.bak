@@ -45,57 +45,57 @@
           <th class="tab-font2">Earth</th>
           <th class="tab-font2">Jupiter</th>
           <th class="tab-font2">pluto</th>
-          <th class="tab-font2">saturn</th>
-		  <th class="tab-font2">uranus</th>
+          <th class="tab-font2">Saturn</th>
+		  <th class="tab-font2">Uranus</th>
         </tr>
         <tr>
-          <th>Mass (kg)</th>
-          <td>5.9722<sup>23</sup></td>
-          <td>1898<sup>24</sup></td>
-          <td0.01303<sup>24</sup></td>
-          <td>568<sup>23</sup></td>
-		  <td>86.8<sup>23</sup></td>
+          <th> Mass (kg)</th>
+          <td> 5.9722 <sup>23</sup></td>
+          <td> 1898 <sup>24</sup></td>
+          <td> 0.01303 <sup>24</sup></td>
+          <td> 568 <sup>23</sup></td>
+		  <td> 86.8 <sup>23</sup></td>
         </tr>
         <tr>
-          <th>Volume (km^3)</th>
-          <td>108.321</td>
-          <td>143,128</td>
-          <td>0.702</td>
-          <td>82,713</td>
-		  <td>86.8</td>
+          <th> Volume (km^3)</th>
+          <td> 108.321 </td>
+          <td> 143,128 </td>
+          <td> 0.702 </td>
+          <td> 82,713 </td>
+		  <td> 86.8 </td>
         </tr>
         <tr>
-          <th>Orbit Distance(days) </th>
-          <td>93,000,000 miles</td>
-          <td>4331 miles</td>
-          <td>90,560 miles</td>
-          <td>10,747 miles</td>
-		  <td>30,589 miles</td>
+          <th> Orbit Distance(days) </th>
+          <td> 93,000,000 miles </td>
+          <td> 4331 miles </td>
+          <td> 90,560 miles </td>
+          <td> 10,747 miles </td>
+		  <td> 30,589 miles </td>
 
         </tr>
         <tr>
-          <th>Average distance from Sun</th>
-          <td>92.158 million mi</td>
-          <td>463.17 million mi</td>
-          <td>3.7 billion mi</td>
-          <td>919.42 million mi</td>
-		  <td>1.8321 billion mi</td>
+          <th> Average distance from Sun </th>
+          <td> 92.158 million mi </td>
+          <td> 463.17 million mi </td>
+          <td> 3.7 billion mi </td>
+          <td> 919.42 million mi </td>
+		  <td> 1.8321 billion mi </td>
         </tr>
         <tr>
-          <th>Number of natural satellites</th>
-          <td>1</td>
-          <td>63</td>
-          <td>5</td>
-          <td>60</td>
-		  <td>27</td>
+          <th> Number of natural satellites </th>
+          <td> 1 </td>
+          <td> 63 </td>
+          <td> 5 </td>
+          <td> 60 </td>
+		  <td> 27 </td>
         </tr>
         <tr>
-          <th>Mean Orbit Velocity(mph)</th>
-          <td>29.78 km/s </td>
-          <td>29,236 miles per </td>
-          <td>10,623 miles per hour </td>
-          <td>21,675 miles per hour</td>
-		  <td>15,233 miles per hour</td>
+          <th> Mean Orbit Velocity(mph)</th>
+          <td> 29.78 km/s </td>
+          <td> 29,236 miles per </td>
+          <td> 10,623 miles per hour </td>
+          <td> 21,675 miles per hour </td>
+		  <td> 15,233 miles per hour </td>
 
         </tr>
         </tr>
