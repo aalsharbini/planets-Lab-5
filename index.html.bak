@@ -36,8 +36,9 @@
     </header>
     <main>
       <table>
-	  <caption> Table includes information about five out the eight different planets. </caption>
-        <caption> Planets Information </caption>
+	 <caption> Table includes information about five out the eight different planets. </caption>
+	      <header>
+        <h1> Planets Information </h1>
         <tr>
           <td colspan="1" class="tab-font1">Data fields</th>
           <th colspan="4" class="tab-font1">Planet Name</th>
