@@ -2,7 +2,7 @@ main {
   padding: 100px;
   margin-left: auto;
   margin-right: auto;
-  background-color: #d3f2f7;
+  background-color: #BF0000;
   overflow: hidden;
 }
 
@@ -39,23 +39,29 @@ td {
  
 .tab-font2 {
   font-size: 1.5em;
-  color: #192270;
+  color: #BF0000;
   text-align: center;
 }
 
 
 .tab-font2:nth-child(1) {
-  background-color: aqua;
+  background-color: rgb(0,15,97);
 }
 
 .tab-font2:nth-child(2) {
-  background-color: rgb(255, 136, 0);
+  background-color: rgb(0,15,97);
 }
 
 .tab-font2:nth-child(3) {
-  background-color: rgb(0, 153, 255);
+  background-color: rgb(0,15,97);
 }
 
 .tab-font2:nth-child(4) {
-  background-color: rgb(255, 72, 0);
+  background-color: rgb(0,15,97);
+}
+.tab-font2:nth-child(5) {
+  background-color: rgb(0,15,97);
+}
+.tab-font2:nth-child(6) {
+  background-color: rgb(0,15,97);
 }
