@@ -10,7 +10,8 @@
   </head>
   <body>
     <header>
-      <h1>Planets Information!</h1>
+      <h1> Table includes information about five out the eight different planets. </h1>
+	  <h2> Planets Information! </h2>
       <div class="box">
         <figure class="col">
           <img src="Planets/earth.jpg" alt="earth" width="200" height="200" />
@@ -38,7 +39,7 @@
       <table>
         <caption>Planets Information</caption>
         <tr>
-          <th rowspan="2" class="tab-font1">Data fields</th>
+          <td colspan="1" class="tab-font1">Data fields</th>
           <th colspan="4" class="tab-font1">Planet Name</th>
         </tr>
         <tr>
