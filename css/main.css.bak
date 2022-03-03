@@ -33,7 +33,7 @@ td {
 
 .tab-font1 {
   font-size: 1.5em;
-  color: darkcyan;
+  color: #0000BF;
   text-align: center;
 }
  
