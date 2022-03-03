@@ -4,7 +4,7 @@ body {
 }
 
 header {
-  background-color: red;
+  background-color: #d3f2f7;
   text-align: center;
   margin: auto;
   overflow: hidden;
@@ -13,8 +13,8 @@ header {
 h1,
 h2 {
   font-weight: 900;
-  color: #82006E;
-  background-color: #00826E;
+  color: #ffd700;
+  background-color: #00aacc;
   padding: 0 100px;
   text-align: center;
   margin: auto;
@@ -45,7 +45,7 @@ img {
   border: 1px solid #ccc;
   padding: 2px;
   margin: 2px;
-  background-color: #00826E;
+  background-color: #808080;
   border-radius: 10%;
 }
 
@@ -53,4 +53,4 @@ img {
   font-family: 'Calibri', sans-serif;
   font-weight: 700;
   font-size: 1em;
-  color: #00826E;
+  color: #461970;
