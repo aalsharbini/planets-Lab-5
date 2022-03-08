@@ -1,6 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
+<html>
+<style>
+body {
+ background-image: radial-gradient(red,green);  
+</style>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,7 +11,7 @@
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/header.css">
   </head>
-  <body>
+  
     <header>
 	  <h1> Planets Information! </h1>
 	  <caption> The planet, also called telluric or rocky, is defined as a celestial body consisting mainly of silicate rocks or minerals and has a solid surface, distinguishing it from gas giants, consisting mainly of gases such as hydrogen, helium, water and some heavier elements in various situations.
@@ -38,15 +41,41 @@ The term earth planet has been derived from terra Latin, which means "Earth". Te
       </div>
     </header>
     <main>
-      <table>
-	 <caption> Table includes information about five out the eight different planets. </caption>
-	      <header>
-        <h1> Planets Information </h1>
-        <tr>
-          <th colspan="4" class="tab-font1">Planet Name</th>
-        </tr>
-        <tr>
-		              <th class="tab-font2">Data fields</th>
+<head>
+<style>
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+
+</style>
+
+
+	 
+
+<h1>Planets Information</h1>
+<caption> Table includes information about five out the eight different planets. </caption>
+<table id="customers">
+  <tr>
+      <th class="tab-font2">Data fields</th>
                      <th class="tab-font2">Earth</th>
                      <th class="tab-font2">Jupiter</th>
                      <th class="tab-font2">pluto</th>
@@ -105,6 +134,7 @@ The term earth planet has been derived from terra Latin, which means "Earth". Te
         </tr>
         </tr>
       </table>
-    </main>
-  </body>
+</body>
 </html>
+
+
